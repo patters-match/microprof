@@ -14,7 +14,7 @@ Each of IvanBasic's previous games sidesteps the conventional limitations of the
 - [Micro Gauntlet](https://bunsen.itch.io/micro-gauntlet-by-ivanbasic) - ruthless programming minimalism yet perfectly captures the spirit of the original
 - [STOP THE micro EXPRESS](https://bunsen.itch.io/stop-the-micro-express-by-ivanbasic) - similar but even more technically ambitious
 
-These games are eye-opening as to what can be achieved via the humble ZX Spectrum's native BASIC interpreter, and picking them apart to understand them is always interesting. This particular listing uses an ingenious method of encoding its levels using the bitmap data in regular characters to encode the selection of level building primitives. The primitives are stored in a multidimensional string array containing inline positioning and formatting escape sequences.
+These games are eye-opening as to what can be achieved via the humble ZX Spectrum's native BASIC interpreter, and picking them apart to understand them is always interesting. This particular listing uses an ingenious method of encoding its levels using the bitmap data in regular characters to encode the selection of level-building primitives. The primitives are stored in a multidimensional string array containing inline positioning and formatting escape sequences.
 
 Unfortunately optimised Sinclair BASIC listings tend to use techniques which improve performance at the significant expense of comprehension - single letter variable names, huge long lines, a confusing structure to keep critical loops at the top, no comments, etc.
 
