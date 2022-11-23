@@ -9,7 +9,7 @@ It can be downloaded [here at Spectrum Computing](https://spectrumcomputing.co.u
 This is a micro platform game with animated hazards and an extensive map which runs at a decent playable speed - not typically possible using Sinclair BASIC. It's micro scale in terms of its presentation (single characters) but also its codebase which, in its original form, was crammed into a mere 12 lines. It's a hommage to the 1985 Dynamix pyramid-explorer [Abu Simbel Profanation](https://spectrumcomputing.co.uk/entry/48/ZX-Spectrum/Abu_Simbel_Profanation). It won the BASIC category of Argentinian computer museum Espacio Tec's [Retrogame Dev competition 2022](https://twitter.com/tbrazil_speccy?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1589174459692650498%7Ctwgr%5E%7Ctwcon%5Es2_&ref_url=).
 
 Each of IvanBasic's previous games sidesteps the conventional limitations of the BASIC language, with outstanding results:
-- [Rompetechos](https://spectrumcomputing.co.uk/entry/30322/ZX-Spectrum/Rompetechos), a large adventure game with great cartoon graphics and responsive controls
+- [Rompetechos](https://spectrumcomputing.co.uk/entry/30322/ZX-Spectrum/Rompetechos) - a large adventure game with great cartoon graphics and responsive controls
 - [Brain 8](https://spectrumcomputing.co.uk/entry/34781/ZX-Spectrum/Brain_8) - scrolls and animates a full screen of ROM-generated graphics at speed
 - [Aznar The Sport Star](https://spectrumcomputing.co.uk/entry/35104/ZX-Spectrum/Aznar_The_Sport_Star) - sports game with responsive controls
 - [Pedro Pomez](https://spectrumcomputing.co.uk/entry/35343/ZX-Spectrum/Pedro_Pomez) - a platform game with a [vast colourful map](https://maps.speccy.cz/map.php?id=PedroPomez&sort=4&part=16&ath=0)
