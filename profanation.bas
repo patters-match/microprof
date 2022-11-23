@@ -214,7 +214,8 @@ goto @initialise
         let b$=""
         for b=1 to 6
             for a=1 to 6
-#                                                          test 6x6 pixels in the hidden character and use this to retrieve 23-char block data rows from p$
+#                                                          test 6 x 6 pixels in the hidden character and use this to retrieve the matching block data strings with
+#                                                            inline formatting from the multidimensional B|O(K5 string array p$ (6 x 6 x 23 length)
                 let b$=b$+(p$(b,a) and point (b,a))
             next a
         next b
