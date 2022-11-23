@@ -187,4 +187,5 @@
         load "" data p$(): \
         load ""code 64765: \
         load ""code usr "a": \
+        pause 100: \
         goto @newgame
