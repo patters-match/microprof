@@ -27,7 +27,7 @@ Furthermore I have updated my own [Sublime syntax highlighter for ZX BASIC](http
 ## Source files
 - **[microprof.bas](https://github.com/patters-syno/profanation/blob/main/microprof.bas)** will build to functionally the same 12-line Spectrum listing as the [original release](https://spectrumcomputing.co.uk/zxdb/add/public/uploads/38861_48_en.tap)
 
-- **[microprof_annotated.bas](https://github.com/patters-syno/profanation/blob/main/microprof_annotated.bas)** is the same file as above but with all statements separated into their own lines where possible to allow descriptive comments. zmakebas does not permit comments between line-wrapped code. As a result it may run very slight slower, but I cannot objectively notice any difference when play testing.
+- **[microprof_annotated.bas](https://github.com/patters-syno/profanation/blob/main/microprof_annotated.bas)** is the same file as above but with all statements separated into their own lines where possible to allow descriptive comments. zmakebas does not permit comments in between line-wrapped code. These comments do not end up in the Spectrum listing. As a result of splitting out the lines this build may run very slightly slower, but I cannot objectively notice any difference when play testing.
 
 - **data.bin.tap** is the binary data for the screen building blocks, each game screen's metadata, and the user-defined graphics, in ```.tap``` format ready to be concatenated with the built BASIC binary. If this was strictly a 1980s magazine type-in this data ought to be part of the listing, but it would just slow things down a lot doing an initial READ from DATA statements, so I didn't convert it.
 
