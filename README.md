@@ -8,11 +8,11 @@ This game is a very large platform game which runs at a decent playable speed - 
 
 Each of his previous games sidesteps the conventional limitations of the BASIC language, with outstanding results:
 - [Rompetechos](https://spectrumcomputing.co.uk/entry/30322/ZX-Spectrum/Rompetechos), a large adventure game with great cartoon graphics and responsive controls
-- [Brain 8](https://spectrumcomputing.co.uk/entry/34781/ZX-Spectrum/Brain_8), scrolls and animates a full screen of ROM-generated graphics at speed
+- [Brain 8](https://spectrumcomputing.co.uk/entry/34781/ZX-Spectrum/Brain_8) - scrolls and animates a full screen of ROM-generated graphics at speed
 - [Aznar The Sport Star](https://spectrumcomputing.co.uk/entry/35104/ZX-Spectrum/Aznar_The_Sport_Star), sports game with responsive controls
-- [Pedro Pomez](https://spectrumcomputing.co.uk/entry/35343/ZX-Spectrum/Pedro_Pomez), a platform game with a [vast colourful map](https://maps.speccy.cz/map.php?id=PedroPomez&sort=4&part=16&ath=0)
-- [Micro Gauntlet](https://bunsen.itch.io/micro-gauntlet-by-ivanbasic), ruthless programming minimalism yet perfectly captures the spirit of the original
-- [STOP THE micro EXPRESS](https://bunsen.itch.io/stop-the-micro-express-by-ivanbasic), similar but even more technically ambitious
+- [Pedro Pomez](https://spectrumcomputing.co.uk/entry/35343/ZX-Spectrum/Pedro_Pomez - a platform game with a [vast colourful map](https://maps.speccy.cz/map.php?id=PedroPomez&sort=4&part=16&ath=0)
+- [Micro Gauntlet](https://bunsen.itch.io/micro-gauntlet-by-ivanbasic) - ruthless programming minimalism yet perfectly captures the spirit of the original
+- [STOP THE micro EXPRESS](https://bunsen.itch.io/stop-the-micro-express-by-ivanbasic) - similar but even more technically ambitious
 
 These games are eye-opening to what can be achieved via the humble ZX Spectrum's native BASIC interpreter, and picking them apart to understand them is always interesting. This particular listing uses an ingenious method of encoding its levels using the bitmap data in regular characters to encode the selection of level building primitives. The primitives are stored as strings containing inline positioning and formatting escape sequences.
 
