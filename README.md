@@ -40,7 +40,7 @@ These files can be assembled back into the game ```.tap``` file using [zmakebas]
   
   # Now merge the binary data tape blocks
   
-  # macOS
+  # macOS / Linux
   cat program.tap data.bin.tap > MicroProfanation.tap
   
   # Windows
