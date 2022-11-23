@@ -1,6 +1,6 @@
 # MicroProfanation - a commented source
 
-An extremely well crafted BASIC programming competition-winner for the ZX Spectrum, by [IvanBasic](https://spectrumcomputing.co.uk/list?label_id=16585).
+A BASIC programming competition-winning game for the ZX Spectrum, by [IvanBasic](https://spectrumcomputing.co.uk/list?label_id=16585).
 
 [![MicroProfanation Screenshots](images/microprofanation.png "MicroProfanation Screenshots")](https://spectrumcomputing.co.uk/forums/viewtopic.php?t=8372)
 
