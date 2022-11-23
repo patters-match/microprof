@@ -25,8 +25,9 @@ However it is possible to put the code into a modern editor and to use [zmakebas
 Furthermore I have updated my own [Sublime syntax highlighter for ZX BASIC](https://github.com/patters-syno/zx-basic-syntax) to highlight zmakebas listings, as shown in the above right image.
 
 ## Source files
+- **[microprof.bas](https://github.com/patters-syno/profanation/blob/main/microprof.bas)** will build to functionally the same 12-line Spectrum listing as the [original release](https://spectrumcomputing.co.uk/zxdb/add/public/uploads/38861_48_en.tap)
 
-- **[microprofanation.bas](https://github.com/patters-syno/profanation/blob/main/profanation.bas)** will build to functionally the same game as the [original release](https://spectrumcomputing.co.uk/zxdb/add/public/uploads/38861_48_en.tap), with some minor tweaks that could make it very slightly slower. There is a touch more calculation for the relative GO TOs, though they aren't really performance-critical, and breaking up the big lines was necessary as *zmakebas* does not permit comments among line-wrapped code. I can't objectively notice any difference when play testing though.
+- **[microprof_annotated.bas](https://github.com/patters-syno/profanation/blob/main/microprof_annotated.bas)** is the same file as above but with all statements separated into their own lines where possible to allow descriptive comments. **zmakebas** does not permit comments between line-wrapped code. This could be very slightly slower, but I can't objectively notice any difference when play testing though.
 
 - **data.bin.tap** is the binary data for the screen building blocks, each game screen's metadata, and the user-defined graphics in ```.tap``` format ready to be concatenated with the built BASIC binary. If this was strictly a 1980s magazine type-in this data ought to be part of the listing, but it would just slow things down a lot doing an initial READ from DATA statements, so I didn't convert it.
 
@@ -35,7 +36,7 @@ Furthermore I have updated my own [Sublime syntax highlighter for ZX BASIC](http
 These files can be assembled back into the game ```.tap``` file using [zmakebas](https://github.com/ohnosec/zmakebas).
 
   ```bash
-  zmakebas -n MicroProfa -o program.tap -l -i 10 -a @initialise profanation.bas
+  zmakebas -n MicroProfa -o program.tap -l -i 10 -a @initialise microprof.bas
   
   # Now merge the binary data tape blocks
   
