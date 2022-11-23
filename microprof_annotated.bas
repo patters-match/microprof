@@ -287,11 +287,11 @@ goto @initialise
                       "         7H3|R W4Y OU7..."""'''
         dim p$(6,6,23)
 #                                                          load binary data
-#                                                          B|O(K5
+#                                                          B|O(K5 (837 bytes)
         load "" data p$()
-#                                                          5(REEN5
+#                                                          5(REEN5 (542 bytes)
         load ""code 64765
-#                                                          5PR|7E5
+#                                                          5PR|7E5 (170 bytes)
         load ""code usr "a"
         pause 100
         goto @newgame
