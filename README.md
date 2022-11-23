@@ -18,9 +18,9 @@ These games are eye-opening as to what can be achieved via the humble ZX Spectru
 
 Unfortunately optimised Sinclair BASIC listings tend to use techniques which improve performance at the significant expense of comprehension - single letter variable names, huge long lines, a confusing structure to keep critical loops at the top, no comments, etc.
 
-However it is possible to use a modern tool such as [zmakebas](https://github.com/ohnosec/zmakebas) to tease the listing apart, to indent and line-wrap, to comment it in a way that won't slow down execution, and to use more intuitive labels instead of line numbers.
+However it is possible to write the code in modern editor and use [zmakebas](https://github.com/ohnosec/zmakebas) to build it. This permits teasing the listing apart,indenting and line-wrapping for clarity, commenting it in a way that won't slow down execution, and using more intuitive labels rather than line numbers.
 
-I have updated my own [Sublime syntax highlighter for ZX BASIC](https://github.com/patters-syno/zx-basic-syntax) to also format zmakebas listings, which makes them much more readable as seen above.
+Furthermore I have updated my own [Sublime syntax highlighter for ZX BASIC](https://github.com/patters-syno/zx-basic-syntax) to highlight zmakebas listings, as seen in the image above.
 
 ## Source files
 
