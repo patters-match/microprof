@@ -26,7 +26,7 @@ Furthermore I have updated my own [Sublime syntax highlighter for ZX BASIC](http
 
 - **[microprofanation.bas](https://github.com/patters-syno/profanation/blob/main/profanation.bas)** will build to functionally the same game as the [original release](https://spectrumcomputing.co.uk/zxdb/add/public/uploads/38861_48_en.tap), with some minor tweaks that could make it very slightly slower. There is a touch more calculation for the relative GO TOs, though they aren't really performance-critical, and breaking up the big lines was necessary as *zmakebas* does not permit comments among line-wrapped content. I can't really tell the difference when play testing.
 
-- **data.bin.tap** is the binary data for the screen building blocks, each screen's metadata, and the user-defined graphics in TAP format ready to be concatenated to the built BASIC binary. If this was strictly a 1980s magazine type-in this data ought to be part of the listing, but it would just slow things down a lot doing an initial READ from DATA statements, so I didn't convert it.
+- **data.bin.tap** is the binary data for the screen building blocks, each game screen's metadata, and the user-defined graphics in TAP format ready to be concatenated to the built BASIC binary. If this was strictly a 1980s magazine type-in this data ought to be part of the listing, but it would just slow things down a lot doing an initial READ from DATA statements, so I didn't convert it.
 
 ## Building
 
