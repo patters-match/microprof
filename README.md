@@ -30,7 +30,7 @@ Furthermore I have updated my own [Sublime syntax highlighter for ZX BASIC](http
 
 ## Building
 
-These files can be assembled back into the original ```.tap``` file using [zmakebas](https://github.com/ohnosec/zmakebas).
+These files can be assembled back into the game ```.tap``` file using [zmakebas](https://github.com/ohnosec/zmakebas).
 
   ```bash
   zmakebas -n MicroProfa -o program.tap -l -i 10 -a @initialise profanation.bas
