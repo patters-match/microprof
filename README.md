@@ -35,6 +35,8 @@ These files can be assembled back into the original ```.tap``` file using [zmake
   ```bash
   zmakebas -n MicroProfa -o program.tap -l -i 10 -a @initialise profanation.bas
   
+  # Now merge the binary data tape blocks
+  
   # macOS
   cat program.tap data.bin.tap > MicroProfanation.tap
   
