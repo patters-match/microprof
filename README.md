@@ -22,7 +22,7 @@ Unfortunately optimised Sinclair BASIC listings tend to use techniques which imp
 
 However it is possible to put the code into a modern editor and to use [zmakebas](https://github.com/ohnosec/zmakebas) to build it into a ```.tap``` file. This permits teasing the listing apart, indenting and line-wrapping for clarity, commenting it in a way that won't slow down execution, and using more intuitive labels rather than line numbers. That is what I have done here.
 
-Furthermore I have updated my own [Sublime syntax highlighter for ZX BASIC](https://github.com/patters-syno/zx-basic-syntax) to highlight zmakebas listings, as seen in the image above.
+Furthermore I have updated my own [Sublime syntax highlighter for ZX BASIC](https://github.com/patters-syno/zx-basic-syntax) to highlight zmakebas listings, as shown in the right-hand image above.
 
 ## Source files
 
