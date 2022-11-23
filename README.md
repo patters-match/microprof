@@ -16,7 +16,7 @@ Each of IvanBasic's previous games sidesteps the conventional limitations of the
 
 These games are eye-opening as to what can be achieved via the humble ZX Spectrum's native BASIC interpreter, and picking them apart to understand them is always interesting. This particular listing uses an ingenious method of encoding its levels using the bitmap data in regular characters to encode the selection of level-building primitives. The primitives are stored in a multidimensional string array containing inline positioning and formatting escape sequences.
 
-Unfortunately optimised Sinclair BASIC listings tend to use techniques which improve performance at the significant expense of comprehension - single letter variable names, huge long lines, a confusing structure to keep critical loops at the top, no comments, etc.
+Unfortunately optimised Sinclair BASIC listings tend to use techniques which improve performance at the significant expense of comprehension: single letter variable names, huge long lines, a confusing structure to keep critical loops at the top, no comments, etc.
 
 However it is possible to write the code in modern editor and use [zmakebas](https://github.com/ohnosec/zmakebas) to build it. This permits teasing the listing apart,indenting and line-wrapping for clarity, commenting it in a way that won't slow down execution, and using more intuitive labels rather than line numbers.
 
