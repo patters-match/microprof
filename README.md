@@ -4,7 +4,7 @@ An extremely well crafted BASIC programming competition-winner for the ZX Spectr
 
 [![MicroProfanation Screenshots](images/microprofanation.png "MicroProfanation Screenshots")](https://spectrumcomputing.co.uk/forums/viewtopic.php?t=8372)
 
-This game is a very large platform game which runs at a decent playable speed - neither of which are typically possible in Sinclair BASIC. It's a micro version of the 1985 Dynamix pyramid-explorer [Abu Simbel Profanation](https://spectrumcomputing.co.uk/entry/48/ZX-Spectrum/Abu_Simbel_Profanation). It won the BASIC category of Argentinian computer museum Espacio Tec's [Retrogame Dev competition 2022](https://twitter.com/tbrazil_speccy?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1589174459692650498%7Ctwgr%5E%7Ctwcon%5Es2_&ref_url=).
+This game is a platform game with a large map which runs at a decent playable speed - neither of which are typically possible in Sinclair BASIC. It's a micro version of the 1985 Dynamix pyramid-explorer [Abu Simbel Profanation](https://spectrumcomputing.co.uk/entry/48/ZX-Spectrum/Abu_Simbel_Profanation). It won the BASIC category of Argentinian computer museum Espacio Tec's [Retrogame Dev competition 2022](https://twitter.com/tbrazil_speccy?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1589174459692650498%7Ctwgr%5E%7Ctwcon%5Es2_&ref_url=).
 
 Each of IvanBasic's previous games sidesteps the conventional limitations of the BASIC language, with outstanding results:
 - [Rompetechos](https://spectrumcomputing.co.uk/entry/30322/ZX-Spectrum/Rompetechos), a large adventure game with great cartoon graphics and responsive controls
