@@ -2,7 +2,7 @@
 
 A BASIC programming competition-winning game for the ZX Spectrum, by [IvanBasic](https://spectrumcomputing.co.uk/list?label_id=16585).
 
-[![MicroProfanation Screenshots](images/microprofanation.png "MicroProfanation Screenshots")](https://spectrumcomputing.co.uk/forums/viewtopic.php?t=8372)
+![MicroProfanation Screenshots](images/microprofanation.png "MicroProfanation Screenshots")
 
 It can be downloaded [here at Spectrum Computing](https://spectrumcomputing.co.uk/zxdb/add/public/uploads/38861_48_en.tap), and will soon be included in ZXDB.
 
