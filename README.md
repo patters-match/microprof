@@ -4,7 +4,7 @@ A BASIC programming competition-winning game for the ZX Spectrum, by [IvanBasic]
 
 [![MicroProfanation Screenshots](images/microprofanation.png "MicroProfanation Screenshots")](https://spectrumcomputing.co.uk/forums/viewtopic.php?t=8372)
 
-If you want to try out the game, it can be downloaded [here at Spectrum Computing](https://spectrumcomputing.co.uk/zxdb/add/public/uploads/38861_48_en.tap), and will soon be included in ZXDB.
+It can be downloaded [here at Spectrum Computing](https://spectrumcomputing.co.uk/zxdb/add/public/uploads/38861_48_en.tap), and will soon be included in ZXDB.
 
 This is a micro platform game with a large map which runs at a decent playable speed - not typically possible using Sinclair BASIC. It's micro scale in terms of its presentation (single characters for each graphical element) but also its codebase which, in its original form, was crammed into a mere 12 lines. It's a hommage to the 1985 Dynamix pyramid-explorer [Abu Simbel Profanation](https://spectrumcomputing.co.uk/entry/48/ZX-Spectrum/Abu_Simbel_Profanation). It won the BASIC category of Argentinian computer museum Espacio Tec's [Retrogame Dev competition 2022](https://twitter.com/tbrazil_speccy?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1589174459692650498%7Ctwgr%5E%7Ctwcon%5Es2_&ref_url=).
 
