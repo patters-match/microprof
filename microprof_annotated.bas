@@ -210,7 +210,7 @@ goto @initialise
 #                                                          d=16
 #                                                          level map, each character encodes a screen
 #                                                          print the selected character with INK 0 so it remains hidden
-        print at 21,0;"R\'.\mbJ\' \l\: \n&f\c4N""=w\''\..Bv0\i\oK.XC!`pd\s9*}\eMV3\\^$D\tsmt\ukzL7{Ay\g%\{64}g"(p)
+        print at 21,0;"R\'.\mbJ\' \l\: \n&f\c4N""=w\''\..Bv0\i\oK.XC!`pd\s9*}\eMV3\\^$D\tsmt\ukzL7{Ay\g%\@g"(p)
         let b$=""
         for b=1 to 6
             for a=1 to 6
