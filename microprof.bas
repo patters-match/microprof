@@ -135,7 +135,7 @@
         let h=peek (65245+p): \
         let i=h: \
         let d=peek (65185+p): \
-        print at 21,0;"R\'.\mbJ\' \l\: \n&f\c4N""=w\''\..Bv0\i\oK.XC!`pd\s9*}\eMV3\\^$D\tsmt\ukzL7{Ay\g%\{64}g"(p): \
+        print at 21,0;"R\'.\mbJ\' \l\: \n&f\c4N""=w\''\..Bv0\i\oK.XC!`pd\s9*}\eMV3\\^$D\tsmt\ukzL7{Ay\g%\@g"(p): \
         let b$="": \
         for b=1 to 6: \
             for a=1 to 6: \
